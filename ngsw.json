@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1681132096607,
+  "timestamp": 1681132311250,
   "index": "/pwabeta/index.html",
   "assetGroups": [
     {
@@ -44,7 +44,7 @@
     "/pwabeta/assets/icons/icon-384x384.png": "e9a24cd7a10f9adc2fca2111e155d8c8f81d731f",
     "/pwabeta/assets/icons/icon-512x512.png": "d068c336c4f0c4080ee5c4d04c70f723b0f3d615",
     "/pwabeta/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "/pwabeta/index.html": "36929011c67b64c9512a0997b93f6aa68544fdbe",
+    "/pwabeta/index.html": "a68409140f9b3edf54e4b4d336706fce009a6f04",
     "/pwabeta/main.e0dbc640821ff879.js": "a19bfe7d6e66391c7ff66169219c81b114928cd7",
     "/pwabeta/manifest.webmanifest": "ef4e1fc72201bffdf3681e236c9f264ffd182d59",
     "/pwabeta/polyfills.7bfbff6975468f4b.js": "d35438cc6fe095a10ba62ac4f5d01ede6dfe0b37",

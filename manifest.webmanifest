@@ -1,6 +1,6 @@
 {
   "name": "pwa_latest",
-  "short_name": "Eat",
+  "short_name": "pwa_latest",
   "theme_color": "#1976d2",
   "background_color": "#fafafa",
   "display": "standalone",
